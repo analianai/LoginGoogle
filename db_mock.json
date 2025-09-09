@@ -1,0 +1,8 @@
+{
+  "users": [
+    { "nome": "Anália",   "email": "analia",   "senha": "123" },
+    { "nome": "Rafael",   "email": "rafa",     "senha": "abc" },
+    { "nome": "Jaqueline","email": "jaque",    "senha": "456" },
+    { "nome": "Eduardo",  "email": "dudu",     "senha": "xyz" }
+  ]
+}
